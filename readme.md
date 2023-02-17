@@ -1,6 +1,5 @@
 # c2g - Collada2glTF Web Proxy
-A web-based Collada2glTF converter using Collada2glTF.  
-It can be used as a transparent proxy.
+A web-based Collada2glTF converter using Collada2glTF. It can be used as a transparent proxy.
 
 ## Usage
 Add "https://(your-domain)/c2g.php?u=" to the beginning of the URL where the target Collada file is located, and it will be converted to glTF format.
